@@ -24,7 +24,9 @@ use Annihilation\utils\Team;
 
 class GameTask extends Task{
 
-	/** @var Annihilation $plugin */	private $plugin;
+	/** @var Annihilation $plugin */	
+	
+
 
 	
 
